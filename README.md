@@ -50,9 +50,9 @@ Good School 학교가 있습니다. 이 학교에는 5명의 학생들이 수업
 학점 정책에 대해서는 인터페이스를 선언하고 각 정책이 해당 인터페이스를 구현하도록 합니다.   
 
 - 국어 과목 결과    
-![image](https://user-images.githubusercontent.com/84164109/136355103-634ddd7f-e398-4c9d-bca6-3ece21eb9244.png)
+![image](https://user-images.githubusercontent.com/84164109/136362906-7a8e3828-9b3d-4d7c-94f8-050f569cba86.png)
 - 수학 과목 결과    
-![image](https://user-images.githubusercontent.com/84164109/136355128-a8729ec3-3cf5-4fec-90b2-cffb8c32dd30.png)
+![image](https://user-images.githubusercontent.com/84164109/136363043-46046173-dde4-42b4-a3fb-c40b300ce923.png)
 <br><br>
 
 ### 클래스 정의 하고 관계도 그리기
@@ -90,4 +90,5 @@ StringBuffer 클래스를 이용하여 모든 리포트의 내용을 만들고 �
 
 - 방송댄스 과목 결과  
 
-![image](https://user-images.githubusercontent.com/84164109/136355230-198320c4-1616-475a-9279-bc7651c895ef.png)
+![image](https://user-images.githubusercontent.com/84164109/136362731-8d162219-c637-4dff-b523-f6b1b625ec7a.png)
+
